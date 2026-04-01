@@ -26,6 +26,12 @@ Aplicação web para visualização de dados climáticos em tempo real, com prev
 
 ---
 
+## Preview
+
+<img width="1692" height="954" alt="Capturar" src="https://github.com/user-attachments/assets/875b4f78-184c-4654-b59f-ec4883b63574" />
+
+
+---
 
 ## Como executar
 
@@ -61,4 +67,3 @@ Aplicação web para visualização de dados climáticos em tempo real, com prev
 ## Autor
 
 Desenvolvido por Danilo Merola Balbino
-
